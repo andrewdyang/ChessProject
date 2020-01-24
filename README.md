@@ -1,6 +1,6 @@
 # ChessProject
-Chess game with unique rules and twists, written in C# with object-oriented approach
-Built using Windows Presentation Foundation (WPF)
+Chess game with unique rules and twists, written in C# with object-oriented approach. 
+Built using Windows Presentation Foundation (WPF).
 
 Unique rules compared to chess
 1. Each piece have different perks and skills.
